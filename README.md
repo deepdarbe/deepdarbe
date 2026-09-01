@@ -186,7 +186,6 @@ Active Directory ve Outlook/PST envanterini ajansız çıkaran taşıma denetim 
 |---|---|---|
 | 🔒 **ULUDAG-LEZZET** | Uludağ lezzetleri web platformu | Astro |
 | 🔒 **street-explorer** | Çocuklar için VR Street View gezi oyunu | JavaScript |
-| 🔒 **kuran-elifba-interaktif** | İnteraktif Kuran elifba öğrenme uygulaması | JavaScript |
 
 ### 🧰 Yardımcılar · Utilities
 
