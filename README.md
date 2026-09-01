@@ -226,15 +226,7 @@ GitHub maceram **Şubat 2017**'de başladı; o günden bugüne geçtiğim ana du
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdarbe&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20%C2%B7%20Katk%C4%B1%20Grafi%C4%9Fi" alt="Activity Graph" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=deepdarbe&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepdarbe&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="Trophies" />
 
 </div>
 
